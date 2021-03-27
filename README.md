@@ -9,12 +9,35 @@ import datetime
 import time
 import random 
 ```
- __       __                  __       __            __                        __    __            __
-|  \  _  |  \                |  \     /  \          |  \                      |  \  |  \          |  \
-| $$ / \ | $$  ______        | $$\   /  $$  ______  | $$   __   ______        | $$\ | $$  ______   \$$  _______   ______
-| $$/  $\| $$ /      \       | $$$\ /  $$$ |      \ | $$  /  \ /      \       | $$$\| $$ /      \ |  \ /       \ /      \
-| $$  $$$\ $$|  $$$$$$\      | $$$$\  $$$$  \$$$$$$\| $$_/  $$|  $$$$$$\      | $$$$\ $$|  $$$$$$\| $$|  $$$$$$$|  $$$$$$\
-| $$ $$\$$\$$| $$    $$      | $$\$$ $$ $$ /      $$| $$   $$ | $$    $$      | $$\$$ $$| $$  | $$| $$ \$$    \ | $$    $$
-| $$$$  \$$$$| $$$$$$$$      | $$ \$$$| $$|  $$$$$$$| $$$$$$\ | $$$$$$$$      | $$ \$$$$| $$__/ $$| $$ _\$$$$$$\| $$$$$$$$
-| $$$    \$$$ \$$     \      | $$  \$ | $$ \$$    $$| $$  \$$\ \$$     \      | $$  \$$$ \$$    $$| $$|       $$ \$$     \
-\$$      \$$  \$$$$$$$       \$$      \$$  \$$$$$$$ \$$   \$$  \$$$$$$$       \$$   \$$  \$$$$$$  \$$ \$$$$$$$   \$$$$$$$
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0kxd0WMMMMMMMMMMMMMWXkkKWMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNkc..  'OMMMMMMMMMMMMMK:  .dXMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMWXx;.     .xMMMMMMMMMMMMMNd.  .:0WMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMW0o'.       .xMMMMMMMMXxldKMWO;   ,OWMMMM
+MMMMMMMMMMMMMMMMMMMMMNOc.          .kMMMMMMMWd.  ,kWMK:.  ,OWMMM
+MMMMMMMMMMMMMMMMMMMXx;.            .kMMMMMMMMKc.  .xWMXc.  ;0MMM
+MMWXK000000000000Oo'.              .xMMXxoxXMMNo.  .xWMK;   cXMM
+MWk,..............                 .kMWo. .;0MMNo.  'OMMk.  .xWM
+MWo.                               .xMM0;   ;KMMX:   cXMNc   :XM
+MWo.                               .xMMM0,  .lNMMk.  .kMMk.  'OM
+MWo.                               .xMMMWx.  '0MMK;  .oWM0,  .dW
+MWo.                               .xMMMM0'  .xMMNc   lNMK;  .oW
+MWo.                               .kMMMM0,  .xMMNc   cNMX:  .oW
+MWo.                               .kMMMMx.  'OMMX;  .oWMK,  .dW
+MWo.                               .kMMMK:   cXMMk.  .kMMk.  .kM
+MWo.                               .xMMXc.  ,OMMXc   :XMNl.  ;KM
+MWk'.............                  .kMWo.  'kWMWd.  .kWMO'  .dWM
+MMWX0OOOOOOOOOOOOkc.               .kMW0l:o0WMNx.  .oNMX:   :XMM
+MMMMMMMMMMMMMMMMMMWKo'.            .kMMMMWMMMXo.  .oNMNl.  'OMMM
+MMMMMMMMMMMMMMMMMMMMMXx;.          .xMMMMMMMWd.  .dNMXl.  .xWMMM
+MMMMMMMMMMMMMMMMMMMMMMMNOc.        .xMMMMMMMW0l:l0WMKc.  'xWMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMW0o'      .xMMMMMMMMMMWMMWk,   ,OWMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWXd;.   .kMMMMMMMMMMMMMK;  .cKWMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdookNMMMMMMMMMMMMMW0doONMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
